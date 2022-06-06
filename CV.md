@@ -9,7 +9,7 @@ Contact information:
 
 VALUE STATEMENT:
 
-Experienced and motivated Front End Developer with an extensive background in HTML, CSS and JavaScript.
+Experienced and motivated Front End Developer with an extensive background in HTML, CSS, JavaScript and Phyton
 
 ---------------------------------------------
 
